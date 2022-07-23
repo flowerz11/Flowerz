@@ -1,4 +1,4 @@
-[regresar](Semana1/Ejercicios/Martes.md
+[regresar](Semana1/Ejercicios7martes/Martes.md
 )
 # Lenguajes de programacion interperetados y compilados.
 

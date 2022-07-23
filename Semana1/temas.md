@@ -19,3 +19,6 @@
 -javascript hola mundo<br>
 -Variables en Javascript<br>
 -Estructura HTML básica<br>
+
+## Ejercicios de la semana
+[Martes](Semana1/Ejercicios/martes/Martes.md)
