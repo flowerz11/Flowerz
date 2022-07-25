@@ -21,4 +21,5 @@
 -Estructura HTML básica<br>
 
 ## SEMANA
-[Martes](Ejercicios/martes/Martes.md)
+### 1. [Martes 12](Ejercicios/martes/Martes.md)
+### 2. [Miercoles 13](Ejercicios/miercoles/miercoles.md)
