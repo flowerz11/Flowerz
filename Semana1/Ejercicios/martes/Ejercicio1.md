@@ -1,5 +1,4 @@
-[regresar](Semana1/Ejercicios7martes/Martes.md
-)
+[regresar](Martes.md)
 # Lenguajes de programacion interperetados y compilados.
 
 Cada programa es un conjunto de instrucciones, ya sea para agregar dos números o enviar una solicitud a través de Internet. Los compiladores e intérpretes toman código legible por humanos y lo convierten en código de máquina legible por computadora.<br>

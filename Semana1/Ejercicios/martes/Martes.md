@@ -1,3 +1,4 @@
 [regresar](Semana1/temas.md)
 # Ejercicios martes
 1. [Interpreted And Compiled Programming Languages](Ejercicio1.md)
+2. [¿Java está compilado o interpretado, o ambos?, verifique las fuentes](ejercicio2.md)
