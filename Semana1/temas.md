@@ -20,5 +20,5 @@
 -Variables en Javascript<br>
 -Estructura HTML básica<br>
 
-## Ejercicios de la semana
+## SEMANA
 [Martes](Ejercicios/martes/Martes.md)
