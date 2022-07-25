@@ -7,6 +7,6 @@
 PSEUDOCODIGO 
   1. START
   2. Num1 <-- GET
-  3. X = Num1 * 21,863.10
+  3. X <-- Num1 * 21,863.10
   4. PRINT X
   5. END
