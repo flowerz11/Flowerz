@@ -11,6 +11,7 @@
 
 
     """ .assembly<br>
+    
         .data
 	      number1: .asciiz "\nIngrese el primer numero: "
 	      number2: .asciiz "\nIngrese el segundo numero: "
