@@ -1,9 +1,8 @@
 [regresar](jueves14julio.md)
-# Imprimir numeros especiales
+# Codigo incorrecto
 
 ## Descripcion
-En este ejercicio debes usar un control de flujo iterativo para poder imprimir todos los números pares en el rango de números del 0 al 100. Recuerda que no debes imprimir cada número, debes usar una estructura de control de flujo para realizar el ejercicio
-
+El código que se muestra a continuación no está funcionando de la manera correcta, como tarea debes encontrar el error que cometió el desarrollador que programó este código y corregirlo, para este ejercicio debes explicar cuál es el error y colocar el código correcto
 ## Ayuda
 
 1. []()
